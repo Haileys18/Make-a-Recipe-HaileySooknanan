@@ -1,0 +1,36 @@
+/* Insert any CSS code below here */
+
+body{
+  background-color:#CD5C5C;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1, h2{
+  color:#800020;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   border:10px;
+  border-radius:20%; 
+  border-color: black; 
+  border-style: double;
+  background-color: white;
+  }
+
+
+ol{
+  background-color: #AA4A44;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  color: whitesmoke;
+}
+ul{
+  background-color: #AA4A44;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  color: whitesmoke;
+}
+
+p{
+  font-size:14px;
+  color:whitesmoke;
+  background-color: #AA4A44;
+}
